@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="assets/logo_azul_claro.png" alt="logo Monitoramento-PC" width="250">
+  <img src="../assets/logo_azul_claro.png" alt="logo Monitoramento-PC" width="250">
 </h3>
 
 # Monitoramento Proativo de ATMs
