@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="../assets/logo_azul_claro.png" alt="logo Monitoramento-PC" width="250">
+  <img src="../assets/logo_up.jpg" alt="logo Monitoramento-PC" width="250">
 </h3>
 
 # Monitoramento Proativo de ATMs
@@ -140,19 +140,19 @@ O sistema permite:
 
 <table>
 
-<td  align="center"><a  href= "https://github.com/brubrumartins"><img src="https://avatars.githubusercontent.com/u/198737875?v=4" border-radius="50%"; width="400px;"/><br/><b>Bruna Martins</b> </</a><br /> <sub> UX/UI Designer & Front </sub> </br></br> <a  href="https://github.com/brubrumartins" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href= "https://github.com/brubrumartins"><img src="../assets/bruna_photo.png" border-radius="50%"; width="400px;"/><br/><b>Bruna Martins</b> </</a><br /> <sub> UX/UI Designer & Front </sub> </br></br> <a  href="https://github.com/brubrumartins" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href= "https://github.com/d1n4ara" ><img src="https://avatars.githubusercontent.com/u/112140354?v=4"  border-radius="50%"; width="400px;"/><br/><b>Dandara Ramos</b></</a><br />  <sub> Front & Database Administrator </sub> </br></br> <a  href="https://github.com/d1n4ara" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href= "https://github.com/d1n4ara" ><img src="../assets/dandara_photo.png"  border-radius="50%"; width="400px;"/><br/><b>Dandara Ramos</b></</a><br />  <sub> Front & Database Administrator </sub> </br></br> <a  href="https://github.com/d1n4ara" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/JhoelDiego2" ><img src="https://avatars.githubusercontent.com/u/198672530?v=4" border-radius="50%"; width="400px;"/><br/><b>Jhoel Mita</b></</a><br /> <sub> Fullstack Data Developer </sub> </br></br><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/JhoelDiego2" ><img src="../assets/jhoel_photo.png" border-radius="50%"; width="400px;"/><br/><b>Jhoel Mita</b></</a><br /> <sub> Fullstack Data Developer </sub> </br></br><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center"><a  href="https://github.com/MIGUELLIMA11" ><img src="https://avatars.githubusercontent.com/u/21014453?v=4" border-radius="50%"; width="400px;"/><br/><b>Miguel Sousa</b></</a><br /> <sub> Analista Desenvolvedor Back-end </sub> </br></br><a  href="https://github.com/MIGUELLIMA11" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/MIGUELLIMA11" ><img src="../assets/miguel_photo.png" border-radius="50%"; width="400px;"/><br/><b>Miguel Sousa</b></</a><br /> <sub> Analista Desenvolvedor Back-end </sub> </br></br><a  href="https://github.com/MIGUELLIMA11" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center"><a  href="https://github.com/nathanbarbosatx" ><img src="https://avatars.githubusercontent.com/u/199418258?v=4" border-radius="50%"; width="400px;"/><br/><b>Nathan Barbora</b></</a><br /> <sub> Technical Product Owner - Infrastructure/Cloud </sub> </br></br><a  href="https://github.com/nathanbarbosatx" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/nathanbarbosatx" ><img src="../assets/nathan_photo.png" border-radius="50%"; width="400px;"/><br/><b>Nathan Barbora</b></</a><br /> <sub> Technical Product Owner - Infrastructure/Cloud </sub> </br></br><a  href="https://github.com/nathanbarbosatx" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center"><a  href="https://github.com/pedrosakaue" ><img src="https://avatars.githubusercontent.com/u/198657968?v=4" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner/Developer </sub> </br></br><a  href="https://github.com/pedrosakaue" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/pedrosakaue" ><img src="../assets/pedro_photo.png" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner/Developer </sub> </br></br><a  href="https://github.com/pedrosakaue" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 
