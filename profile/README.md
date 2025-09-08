@@ -24,7 +24,7 @@
         />
     </a>
 </p>
-<p align="left">
+<p align="center">
     <a href="https://github.com/upfinity-sisa/monitoramento_atm_python">
         <img 
             alt="monitoramento-pc-python" 
@@ -44,6 +44,31 @@
             alt="monitoramento-pc-web" 
             title="Monitoramento PC Web" 
             src="https://custom-icon-badges.demolab.com/badge/repositorio-web-yellow?style=for-the-badge&logo=javascript&logoColor=white"
+        />
+    </a>
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/upfinity-sisa/monitoramento_atm_bd">
+        <img 
+            alt="monitoramento_atm_bd" 
+            title="monitoramento_atm_bd" 
+            src="https://custom-icon-badges.demolab.com/badge/Repositorio-banco de dados -green?style=for-the-badge&logo=mysql&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/upfinity-sisa/monitoramento_atm_config_aws">
+        <img 
+            alt="monitoramento_atm_config_aws" 
+            title="monitoramento_atm_config_aws" 
+            src="https://custom-icon-badges.demolab.com/badge/repositorio-aws -orange?style=for-the-badge&logo=aws&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/upfinity-sisa/projetos_individuais_java_sprint1">
+        <img 
+            alt="projetos_individuais_java_sprint1" 
+            title="projetos_individuais_java_sprint1" 
+            src="https://custom-icon-badges.demolab.com/badge/repositorio-projetos java-black?style=for-the-badge&logo=java&logoColor=white"
         />
     </a>
 </p>
@@ -73,7 +98,9 @@ Este projeto está dividido em múltiplos repositórios:
 - 📂 [monitoramento_atm_bd](../monitoramento_atm_bd) → Banco de Dados  
 - 📂 [monitoramento_atm_python](../monitoramento_atm_python) → Agente de Monitoramento (coleta)  
 - 📂 [monitoramento_atm_java](../monitoramento_atm_java) → Backend (ETL)  
+- 📂 [projetos_individuais_java_sprint](../projetos_individuais_java_sprint) → Projetos individuais em java
 - 📂 [monitoramento_atm_web](../monitoramento_atm_web) → Interface Web (Dashboard)  
+- 📂 [monitoramento_atm_config_aws](../monitoramento_atm_config_aws) → Configuração da instancia EC2
 - 📂 [.github](../.github) → Documentação geral e configurações  
 
 
@@ -83,7 +110,7 @@ Este projeto está dividido em múltiplos repositórios:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50px"/>
-  <img src="./assets/aws-svgrepo-com.svg" title="AWS" width="50px"/>
+  <img src="../assets/aws-svgrepo-com.svg" title="AWS" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50px"/>
 </div>
@@ -132,27 +159,27 @@ O sistema permite:
 ## 🧩 Como rodar o sistema completo
 1. **Clonar os repositórios**  
    ```bash
-   git clone https://github.com/ORG/monitoramento_atm_bd.git
-   git clone https://github.com/ORG/monitoramento_atm_python.git
-   git clone https://github.com/ORG/monitoramento_atm_java.git
-   git clone https://github.com/ORG/monitoramento_atm_web.git
+   git clone https://github.com/upfinity-sisa/monitoramento_atm_bd.git
+   git clone https://github.com/upfinity-sisa/monitoramento_atm_python.git
+   git clone https://github.com/upfinity-sisa/monitoramento_atm_java.git
+   git clone https://github.com/upfinity-sisa/monitoramento_atm_web.git
 ## ✒️ Equipe
 
-<table>
+<table >
 
-<td  align="center"><a  href= "https://github.com/brubrumartins"><img src="../assets/bruna_photo.png" border-radius="50%"; width="400px;"/><br/><b>Bruna Martins</b> </</a><br /> <sub> UX/UI Designer & Front </sub> </br></br> <a  href="https://github.com/brubrumartins" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
-</td>
-
-<td  align="center"><a  href= "https://github.com/d1n4ara" ><img src="../assets/dandara_photo.png"  border-radius="50%"; width="400px;"/><br/><b>Dandara Ramos</b></</a><br />  <sub> Front & Database Administrator </sub> </br></br> <a  href="https://github.com/d1n4ara" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td align="center" width="125px"><a  href= "https://github.com/brubrumartins"><img src="../assets/bruna_photo.png" border-radius="50%"; width="400px;"/><br/><b>Bruna Martins</b> </</a><br /> <sub> UX/UI Designer <br>&<br> Front </sub> </br></br> <a  href="https://github.com/brubrumartins" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/JhoelDiego2" ><img src="../assets/jhoel_photo.png" border-radius="50%"; width="400px;"/><br/><b>Jhoel Mita</b></</a><br /> <sub> Fullstack Data Developer </sub> </br></br><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px"><a  href= "https://github.com/d1n4ara" ><img src="../assets/dandara_photo.png"  border-radius="50%"; width="400px;"/><br/><b>Dandara Ramos</b></</a><br />  <sub > DBA <br>&<br> Front  </sub> </br></br> <a  href="https://github.com/d1n4ara" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center"><a  href="https://github.com/MIGUELLIMA11" ><img src="../assets/miguel_photo.png" border-radius="50%"; width="400px;"/><br/><b>Miguel Sousa</b></</a><br /> <sub> Analista Desenvolvedor Back-end </sub> </br></br><a  href="https://github.com/MIGUELLIMA11" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+
+<td  align="center" width="125px"><a  href="https://github.com/JhoelDiego2" ><img src="../assets/jhoel_photo_.png" border-radius="50%"; width="400px;"/><br/><b>Jhoel Mita</b></</a><br /> <sub> Scrum Master <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center"><a  href="https://github.com/nathanbarbosatx" ><img src="../assets/nathan_photo.png" border-radius="50%"; width="400px;"/><br/><b>Nathan Barbora</b></</a><br /> <sub> Technical Product Owner - Infrastructure/Cloud </sub> </br></br><a  href="https://github.com/nathanbarbosatx" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px"><a  href="https://github.com/MIGUELLIMA11" ><img src="../assets/miguel_photo.png" border-radius="50%"; width="400px;"/><br/><b>Miguel Sousa</b></</a><br /> <sub> Analista<br>&<br> Back-end </sub> </br></br><a  href="https://github.com/MIGUELLIMA11" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center"><a  href="https://github.com/pedrosakaue" ><img src="../assets/pedro_photo.png" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner/Developer </sub> </br></br><a  href="https://github.com/pedrosakaue" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px" ><a  href="https://github.com/nathanbarbosatx" ><img src="../assets/nathan_photo.png" border-radius="50%"; width="400px;"/><br/><b>Nathan Barbosa</b></</a><br /> <sub> Infrastructure <br>&<br> Front </sub> </br></br><a  href="https://github.com/nathanbarbosatx" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+</td>
+<td  align="center" width="125px"><a  href="https://github.com/pedrosakaue" ><img src="../assets/pedro_photo.png" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/pedrosakaue" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 
