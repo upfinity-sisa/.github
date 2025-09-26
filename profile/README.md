@@ -169,7 +169,7 @@ O sistema permite:
 <td align="center" width="125px"><a  href= "https://github.com/brenokas"><img src="https://avatars.githubusercontent.com/u/50001019?v=4" border-radius="50%"; width="400px;"/><br/><b>Breno Freitas</b> </</a><br/> <a  href="https://github.com/brenokas" ><br/> <img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/><br/></a>
 </td>
 
-<td align="center" width="125px"><a  href= "https://github.com/CatarinaGimenes"><img src="https://avatars.githubusercontent.com/u/199615487?v=4" border-radius="50%"; width="400px;"/><br/><b>Catarina GImenes</b> </</a><br/> <a  href="https://github.com/CatarinaGimenes" ><br/> <img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/><br/></a>
+<td align="center" width="125px"><a  href= "https://github.com/CatarinaGimenes"><br/><img src="https://avatars.githubusercontent.com/u/199615487?v=4" border-radius="50%"; width="400px;"/><br/><br/><b>Catarina GImenes</b> </</a><br/> <a  href="https://github.com/CatarinaGimenes" ><br/> <img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/><br/></a>
 </td>
 
 <td align="center" width="125px"><a  href= "https://github.com/Gabriel-Pereiraa"><img src="https://avatars.githubusercontent.com/u/198849603?v=4" border-radius="50%"; width="400px;"/><br/><b>Gabriel Pereira</b> </</a><br/> <a  href="https://github.com/Gabriel-Pereiraa" ><br/> <img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/><br/></a>
