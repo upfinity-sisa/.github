@@ -166,19 +166,22 @@ O sistema permite:
 
 <table >
 
-<td align="center" width="125px"><a  href= "https://github.com/brubrumartins"><img src="../assets/bruna_photo.png" border-radius="50%"; width="400px;"/><br/><b>Bruna Martins</b> </</a><br /> <sub> UX/UI Designer <br>&<br> Front </sub> </br></br> <a  href="https://github.com/brubrumartins" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td align="center" width="125px"><a  href= "https://github.com/brenokas"><img src="https://avatars.githubusercontent.com/u/50001019?v=4" border-radius="50%"; width="400px;"/><br/><b>Breno Freitas</b> </</a><br/> <a  href="https://github.com/brenokas" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center" width="125px"><a  href= "https://github.com/d1n4ara" ><img src="../assets/dandara_photo.png"  border-radius="50%"; width="400px;"/><br/><b>Dandara Ramos</b></</a><br />  <sub > DBA <br>&<br> Front  </sub> </br></br> <a  href="https://github.com/d1n4ara" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px"><a  href= "https://github.com/CatarinaGimenes" ><img src="https://avatars.githubusercontent.com/u/199615487?v=4"  border-radius="50%"; width="400px;"/><br/><b>Catarina Gimenes</b></</a><br/>  <sub ></br></br> <a  href="https://github.com/CatarinaGimenes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center" width="125px"><a  href="https://github.com/JhoelDiego2" ><img src="../assets/jhoel_photo_.png" border-radius="50%"; width="400px;"/><br/><b>Jhoel Mita</b></</a><br /> <sub> Scrum Master <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px"><a  href="https://github.com/Gabriel-Pereiraa" ><img src="https://avatars.githubusercontent.com/u/198849603?v=4" border-radius="50%"; width="400px;"/><br/><b>Gabriel Pereira</b></</a> </br><a  href="https://github.com/Gabriel-Pereiraa" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center" width="125px"><a  href="https://github.com/MIGUELLIMA11" ><img src="../assets/miguel_photo.png" border-radius="50%"; width="400px;"/><br/><b>Miguel Sousa</b></</a><br /> <sub> Analista<br>&<br> Back-end </sub> </br></br><a  href="https://github.com/MIGUELLIMA11" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+
+<td  align="center" width="125px"><a  href="https://github.com/GiovannePDS7" ><img src="https://avatars.githubusercontent.com/u/80229358?v=4" border-radius="50%"; width="400px;"/><br/><b>Giovanne Pagano</b></</a></br><a  href="https://github.com/GiovannePDS7" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center" width="125px" ><a  href="https://github.com/nathanbarbosatx" ><img src="../assets/nathan_photo.png" border-radius="50%"; width="400px;"/><br/><b>Nathan Barbosa</b></</a><br /> <sub> Infrastructure <br>&<br> Front </sub> </br></br><a  href="https://github.com/nathanbarbosatx" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+
+<td  align="center" width="125px" ><a  href="https://github.com/gwenraldes" ><img src="https://avatars.githubusercontent.com/u/198761843?v=4" border-radius="50%"; width="400px;"/><br/><b>Gwen Raldes</b></</a><br /> </br><a  href="https://github.com/gwenraldes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center" width="125px"><a  href="https://github.com/pedrosakaue" ><img src="../assets/pedro_photo.png" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/pedrosakaue" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+
+<td  align="center" width="125px"><a  href="https://github.com/OmarDahbur" ><img src="" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/OmarDahbur" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 
