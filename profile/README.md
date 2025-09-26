@@ -181,7 +181,7 @@ O sistema permite:
 <td  align="center" width="125px" ><a  href="https://github.com/gwenraldes" ><img src="https://avatars.githubusercontent.com/u/198761843?v=4" border-radius="50%"; width="400px;"/><br/><b>Gwen Raldes</b></</a><br /> </br><a  href="https://github.com/gwenraldes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center" width="125px"><a  href="https://github.com/OmarDahbur" ><img src="" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/OmarDahbur" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px"><a  href="https://github.com/OmarDahbur" ><img src="https://github.com/account" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/OmarDahbur" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 
