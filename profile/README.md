@@ -166,7 +166,7 @@ O sistema permite:
 
 <table >
 
-<td align="center" width="125px"><a  href= "https://github.com/brenokas"><img src="https://avatars.githubusercontent.com/u/50001019?v=4" border-radius="50%"; width="400px;"/><br/><b>Breno Freitas</b> </</a><br/> <a  href="https://github.com/brenokas" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td align="center" width="125px"><a  href= "https://github.com/brenokas"><img src="https://avatars.githubusercontent.com/u/50001019?v=4" border-radius="50%"; width="400px;"/><br/><b>Breno Freitas</b> </</a><br/> <a  href="https://github.com/brenokas" ><br/> <img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/><br/></a>
 </td>
 
 <td  align="center" width="125px"><a  href= "https://github.com/CatarinaGimenes" ><img src="https://avatars.githubusercontent.com/u/199615487?v=4"  border-radius="50%"; width="400px;"/><br/><b>Catarina Gimenes</b></</a><br/>  <sub ></br></br> <a  href="https://github.com/CatarinaGimenes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
@@ -181,7 +181,7 @@ O sistema permite:
 <td  align="center" width="125px" ><a  href="https://github.com/gwenraldes" ><img src="https://avatars.githubusercontent.com/u/198761843?v=4" border-radius="50%"; width="400px;"/><br/><b>Gwen Raldes</b></</a><br /> </br><a  href="https://github.com/gwenraldes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center" width="125px"><a  href="https://github.com/OmarDahbur" ><img src="https://github.com/account" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/OmarDahbur" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px"><a  href="https://github.com/OmarDahbur" ><img src="https://avatars.githubusercontent.com/u/198760082?v=4" border-radius="50%"; width="400px;"/><br/><b>Omar Nidal</b></</a></br><a  href="https://github.com/OmarDahbur" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 
