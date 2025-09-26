@@ -181,7 +181,7 @@ O sistema permite:
 <td align="center" width="125px"><a  href= "https://github.com/gwenraldes"><img src="https://avatars.githubusercontent.com/u/198761843?v=4" border-radius="50%"; width="400px;"/><br/><b>Gwen Raldes</b> </</a><br/> <a  href="https://github.com/gwenraldes" ><br/> <img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/><br/></a>
 </td>
 
-<td align="center" width="125px"><a  href= "https://github.com/OmarDahbur"><img src="https://avatars.githubusercontent.com/u/198760082?v=4" border-radius="50%"; width="400px;"/><br/><b>Breno Freitas</b> </</a><br/> <a  href="https://github.com/OmarDahbur" ><br/> <img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/><br/></a>
+<td align="center" width="125px"><a  href= "https://github.com/OmarDahbur"><img src="https://avatars.githubusercontent.com/u/198760082?v=4" border-radius="50%"; width="400px;"/><br/><b>Omar Dahbur</b> </</a><br/> <a  href="https://github.com/OmarDahbur" ><br/> <img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/><br/></a>
 </td>
 
 
